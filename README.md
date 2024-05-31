@@ -1,3 +1,7 @@
+The memory matching game (the Concentration or Pairs game) involves a set of cards laid face down on a surface. A player flips over two cards each turn, trying to find a match. If the cards match, they stay face up; if they don't, they are flipped back face down. The game continues until all pairs are found.
+
+
+
 # Memory matching game
 
 ## <b> [Click here to Play the GAME!!](https://vectorstatic.github.io/Memory-Matching-Game/)
